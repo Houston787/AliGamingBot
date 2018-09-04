@@ -1,0 +1,17 @@
+{
+  "name": "aligamingbot",
+  "version": "1.0.0",
+  "description": "Simple bot for ali gaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sponsor= Ali Gaming, Maker and Publisher=Houston",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "fs": "0.0.1-security",
+    "return-deep-diff": "^0.3.0"
+  }
+}
