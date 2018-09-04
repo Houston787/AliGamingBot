@@ -59,4 +59,4 @@ client.on('roleUpdate', (oRole, nRole) =>{
 
 });
 
-client.login('NDg1MzcxNjA1NzUzNjU5Mzkz.Dm_e6g.J5hKjGY3N3LFFErXZXaukjTfSfc');
+client.login('TOKEN');
